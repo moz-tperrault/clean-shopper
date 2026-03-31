@@ -11,6 +11,8 @@ Be direct and specific. Vague feedback is not useful. For every issue you identi
 
 Be strict. A prompt that could be interpreted two ways is not Strong on Clarity.
 
+The revised prompt must only use information from the original. If context is missing, flag it in Gaps instead of inventing it.
+
 ---
 
 ## Evaluation
@@ -50,6 +52,8 @@ Produce a revised version of the prompt with all identified issues addressed. Do
 ## What Changed
 
 For each change made in the revised prompt, explain what was wrong in the original and why the change improves it. Be specific. "Made it clearer" is not an explanation. "Replaced 'it' with 'the ProductCard component' to resolve the unresolved reference in dimension 6" is.
+
+Every entry must name the dimension, quote the original text that was changed, and explain the fix.
 
 ## Gaps
 
