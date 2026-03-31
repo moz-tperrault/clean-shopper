@@ -9,7 +9,7 @@ You are receiving project input in some form -- a PRD, a brief, bullet points, c
 
 Process the input carefully. Map every relevant piece of information to the appropriate section below. Do not invent information that is not present in the input. Do not make assumptions to fill gaps -- instead, collect unresolved gaps in the Gaps section at the end.
 
-Produce the following eight sections in order. For each section, extract and synthesize the relevant information from the input. Write in clear, direct prose. If a section cannot be completed because the information is not present in the input, write "Not defined in source material" and add it to the Gaps section.
+Produce the following nine sections in order. For each section, extract and synthesize the relevant information from the input. Write in clear, direct prose. If a section cannot be completed because the information is not present in the input, write "Not defined in source material" and add it to the Gaps section.
 
 ---
 
@@ -18,6 +18,8 @@ Produce the following eight sections in order. For each section, extract and syn
 **Date:** [Today's date]
 **Source:** [Brief description of what input was provided]
 **Version:** 1.0
+**Design Owner:** [Extract from input, or "Not defined in source material"]
+**Product Owner:** [Extract from input, or "Not defined in source material"]
 
 ---
 
@@ -43,10 +45,13 @@ Accessibility: [Any stated accessibility requirements]
 Technical: [Stack, integrations, APIs, or infrastructure constraints mentioned]
 Other: [Any other constraints that affect the design space]
 
-## 7. Open Questions
+## 7. User Research Insights
+[Key findings from any user research provided — interviews, surveys, usability tests, or analytics. Summarize what users said, did, or struggled with that is relevant to this product. If multiple sources are provided, note where insights come from. If no research is provided, write "Not defined in source material" and add it to the Gaps section.]
+
+## 8. Open Questions
 [Decisions not yet made. Assumptions that need validation. Things the input left unresolved. Number each one.]
 
-## 8. Gaps
+## 9. Gaps
 [Everything that could not be mapped because the input did not contain it. For each gap, name the missing section and explain why it matters for starting design work. Number each one.]
 
 ---
