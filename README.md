@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🌿 Clean Shopper
 
 **Clean Shopper** is an AI-powered product research assistant that helps users find clean, non-toxic home and personal care products.
@@ -20,11 +21,26 @@ Clean Shopper makes it easy to research ingredients, compare products, and make 
 - **Frontend:** React 18, React Router
 - **AI:** Anthropic Claude API
 - **Styling:** CSS Modules / TailwindCSS (TBD)
+=======
+# Clean Shopper
+
+An AI-powered product research assistant for finding clean, non-toxic home and personal care products.
+
+## Getting Started
+
+Install dependencies and start the development server:
+
+```bash
+npm install
+npm start
+```
+>>>>>>> 74a0890915fba73a785b6d0035e24a7b2c6c82a9
 
 ## Project Structure
 
 ```
 clean-shopper/
+<<<<<<< HEAD
 ├── docs/               # Project documentation and briefs
 ├── public/             # Static assets
 └── src/
@@ -60,3 +76,14 @@ See the [`docs/`](./docs) folder for project briefs, design notes, and planning 
 ## License
 
 Private project.
+=======
+├── docs/               # Project documentation
+├── public/             # Static assets
+├── src/
+│   ├── components/     # Reusable UI components
+│   ├── hooks/          # Custom React hooks
+│   ├── lib/            # Utilities and API helpers
+│   ├── pages/          # Page-level components
+│   └── styles/         # Global styles
+```
+>>>>>>> 74a0890915fba73a785b6d0035e24a7b2c6c82a9
